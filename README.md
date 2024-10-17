@@ -12,3 +12,7 @@ class
 <h2>Task 4</h2>
 
 Bu taskda Class yordamida BankAccount class i yaratilgan
+
+<h2>Task 5</h2>
+
+Bu taskda Python ABC (Abstract Base Classes) yordamida abstrakt sinflarni yaratish
