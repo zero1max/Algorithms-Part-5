@@ -1,5 +1,4 @@
 # Algorithms-Part-5
-class
 
 <h2>Task 1</h2>
 
