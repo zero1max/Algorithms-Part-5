@@ -14,6 +14,12 @@ class Calculate:
     
     def bolish(self):
         return self.a / self.b
+    
+    def qoldiqsiz_bolish(self):
+        return self.a // self.b
+    
+    def qoldiq_topish(self):
+        return self.a % self.b
 
 
 amal = Calculate(1, 2)
@@ -21,3 +27,5 @@ print(amal.qoshish())
 print(amal.ayirish())
 print(amal.kopaytirish())
 print(amal.bolish())
+print(amal.qoldiqsiz_bolish())
+print(amal.qoldiq_topish())
